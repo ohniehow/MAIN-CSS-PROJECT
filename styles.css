@@ -9,7 +9,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.header, .footer {
+header, footer {
   display: flex;
   align-items: center;
   width: 100%;
@@ -210,7 +210,7 @@ body {
   background-color: red;
 }
 
-.footer {
+footer {
   display: flex;
   justify-content: center;
   color: rgb(255, 255, 255);
